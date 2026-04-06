@@ -1,3 +1,3 @@
 **ABOUT THIS PROJECT**
 
-- Info about the project.!!
+- Info about the project.
